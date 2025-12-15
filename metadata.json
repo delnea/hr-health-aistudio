@@ -1,0 +1,5 @@
+{
+  "name": "HR Health Command Center",
+  "description": "A comprehensive HR management dashboard for tracking medical requests, employee statistics, and specialty analysis.",
+  "requestFramePermissions": []
+}
